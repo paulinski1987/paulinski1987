@@ -40,4 +40,14 @@ Now that I am getting more confident in my skills I am looking to start contribu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R Logo" width="50" height="50"/>
 
 ---
+  
+
+
+<a href='discordapp.com/users/1944'><img src="discord.png" alt="R Logo" width="50" height="50"/>Add me to Discord</a>
+
+<a href='mailto:mathewp9876@gmail.com'><img src="gmail.png" alt="R Logo" width="50" height="50"/>Send me an email</a>
+
+<a href='https://www.facebook.com/profile.php?id=100079822834565'><img src="fb.png" alt="R Logo" width="50" height="50"/>Hit me up on Facebook</a>
+
+---
 </div>
