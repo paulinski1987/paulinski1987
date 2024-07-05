@@ -19,6 +19,8 @@ Now that I am getting more confident in my skills I am looking to start contribu
 
 🧰 Toolbox
 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_svelte_icon_130137.png" alt="svelte logo" width="50" height="50" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/>
